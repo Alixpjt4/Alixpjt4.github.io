@@ -768,6 +768,7 @@ h4 {
 }
 
 
+
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
@@ -783,10 +784,12 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
+    
 }
 
+
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
